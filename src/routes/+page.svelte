@@ -56,5 +56,7 @@
 		height: 100%;
 		top: 0;
 		display: block;
+		/* Shift the orange lettering to blue (matches --color-theme-2) */
+		filter: hue-rotate(195deg);
 	}
 </style>
